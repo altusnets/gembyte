@@ -1,8 +1,10 @@
 gemz-core
 
            root#multiplier system/
-                                   /software~devices
+                                    /software~devices
                                   
-                                     /crypto based software
+                                      /crypto based software
                                      
-                                        /total rationale count for char*(n)
+                                        /use for your works all day; new way of calculated proofs.
+                                     
+                                          /total rationale count for char*(n)
