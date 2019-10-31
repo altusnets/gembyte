@@ -1,10 +1,13 @@
 gemz-core
 
-           root#multiplier system/
-                                    /software~devices
+          
+          
+  root#multiplier system/
+             
+        /software~devices
                                   
-                                      /crypto based software
+           /crypto based software
                                      
-                                        /use for your Xnay; new way of calculated proofs for value($) returned
+              /use for your Xnay; new way of calculated proofs for value($) returned
                                      
-                                          /total rationale count for char*(n)
+                /total rationale count for char*(n)
