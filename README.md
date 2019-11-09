@@ -9,6 +9,6 @@ gemz-core
                                   
            /crypto based software
                                      
-              /use for your Xnay; new way of calculated proofs for value($) returned
+              /new way of calculated proofs for value($) returned
                                      
-                /total rationale count for char*(n)
+                /total rational count for char*(n)
