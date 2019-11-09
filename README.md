@@ -5,10 +5,10 @@ gemz-core
           
     root#multiplier system/
              
-        /software~devices
-                                  
-           /crypto based software
+        /software & devices
+        
+          /user build system for self-generating wealth
                                      
-              /new way of calculated proofs for value($) returned
+             /new way of calculated proofs for value($) generated
                                      
-                /total rational count for char*(n)
+               /total rational count for char*(n) returne
