@@ -1,3 +1,5 @@
+# github.com/ALTUSNETS\
+
 gemz-core
 
  Bit World
@@ -12,5 +14,4 @@ gemz-core
              /new way of calculated proofs for value($) generated
                                      
                /total rational count for char*(n) returne
-#
-github.com/ALTUSNETS\
+
